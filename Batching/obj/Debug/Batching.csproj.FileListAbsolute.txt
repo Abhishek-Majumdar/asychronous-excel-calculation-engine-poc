@@ -1,0 +1,10 @@
+C:\Users\Abhishek\Desktop\Batching\Batching\bin\Debug\Batching.dll
+C:\Users\Abhishek\Desktop\Batching\Batching\bin\Debug\Batching.pdb
+C:\Users\Abhishek\Desktop\Batching\Batching\obj\Debug\Batching.csprojResolveAssemblyReference.cache
+C:\Users\Abhishek\Desktop\Batching\Batching\obj\Debug\Batching.dll
+C:\Users\Abhishek\Desktop\Batching\Batching\obj\Debug\Batching.pdb
+C:\Users\Abhishek\Desktop\Batching\Batching\bin\Debug\ExcelDna.Registration.dll
+C:\Users\Abhishek\Desktop\Batching\Batching\obj\Debug\Batching.csproj.ResolveComReference.cache
+C:\Users\Abhishek\Desktop\Batching\Batching\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abhishek\Desktop\Batching\Batching\bin\Debug\System.Web.Extensions.dll
+C:\Users\Abhishek\Desktop\Batching\Batching\bin\Debug\Newtonsoft.Json.xml
