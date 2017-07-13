@@ -1,0 +1,458 @@
+[
+ {
+   "CompanyName": "Ing",
+   "CompanyCode": "ING",
+   "MarketPrice": 19.14,
+   "Volume": "64,087"
+ },
+ {
+   "CompanyName": "Fmc Technologies",
+   "CompanyCode": "FTI",
+   "MarketPrice": 26.92,
+   "Volume": "58,950"
+ },
+ {
+   "CompanyName": "Harmony Gold Mining",
+   "CompanyCode": "HMY",
+   "MarketPrice": 1.67,
+   "Volume": "22,700"
+ },
+ {
+   "CompanyName": "Bhp Billiton Sp",
+   "CompanyCode": "BBL",
+   "MarketPrice": 29.75,
+   "Volume": "21,087"
+ },
+ {
+   "CompanyName": "Ryl Dtch Shl",
+   "CompanyCode": "RDS.A",
+   "MarketPrice": 53.27,
+   "Volume": "20,220"
+ },
+ {
+   "CompanyName": "Unilever",
+   "CompanyCode": "UN",
+   "MarketPrice": 56.12,
+   "Volume": "16,831"
+ },
+ {
+   "CompanyName": "Deutsche Bank",
+   "CompanyCode": "DB",
+   "MarketPrice": 17.51,
+   "Volume": "15,780"
+ },
+ {
+   "CompanyName": "Philips Electronics",
+   "CompanyCode": "PHG",
+   "MarketPrice": 36.63,
+   "Volume": "12,430"
+ },
+ {
+   "CompanyName": "Transocean",
+   "CompanyCode": "RIG",
+   "MarketPrice": 8.07,
+   "Volume": "12,160"
+ },
+ {
+   "CompanyName": "Astrazeneca",
+   "CompanyCode": "AZN",
+   "MarketPrice": 34.57,
+   "Volume": "11,905"
+ },
+ {
+   "CompanyName": "Bhp Billiton",
+   "CompanyCode": "BHP",
+   "MarketPrice": 34.41,
+   "Volume": "9,820"
+ },
+ {
+   "CompanyName": "Ubs",
+   "CompanyCode": "UBS",
+   "MarketPrice": 16.59,
+   "Volume": "7,432"
+ },
+ {
+   "CompanyName": "Telefonica",
+   "CompanyCode": "TEF",
+   "MarketPrice": 10.63,
+   "Volume": "7,200"
+ },
+ {
+   "CompanyName": "Carnival",
+   "CompanyCode": "CCL",
+   "MarketPrice": 65.05,
+   "Volume": "6,614"
+ },
+ {
+   "CompanyName": "Abb",
+   "CompanyCode": "ABB",
+   "MarketPrice": 25.32,
+   "Volume": "6,000"
+ },
+ {
+   "CompanyName": "Royal Dutch Shell",
+   "CompanyCode": "RDS.B",
+   "MarketPrice": 54.8,
+   "Volume": "5,700"
+ },
+ {
+   "CompanyName": "Bp",
+   "CompanyCode": "BP",
+   "MarketPrice": 35.15,
+   "Volume": "5,573"
+ },
+ {
+   "CompanyName": "Companhia Vale",
+   "CompanyCode": "RIO",
+   "MarketPrice": 40.19,
+   "Volume": "5,252"
+ },
+ {
+   "CompanyName": "Valeant Pharma",
+   "CompanyCode": "VRX",
+   "MarketPrice": 16.65,
+   "Volume": "4,988"
+ },
+ {
+   "CompanyName": "Glaxosmithkline",
+   "CompanyCode": "GSK",
+   "MarketPrice": 43.91,
+   "Volume": "4,500"
+ },
+ {
+   "CompanyName": "Stmicroelectronics",
+   "CompanyCode": "STM",
+   "MarketPrice": 14.33,
+   "Volume": "3,955"
+ },
+ {
+   "CompanyName": "Prudential",
+   "CompanyCode": "PUK",
+   "MarketPrice": 46.04,
+   "Volume": "3,900"
+ },
+ {
+   "CompanyName": "Royal Bank of Scotland Grp.",
+   "CompanyCode": "RBS",
+   "MarketPrice": 6.49,
+   "Volume": "3,700"
+ },
+ {
+   "CompanyName": "Credit Suisse Grp.",
+   "CompanyCode": "CS",
+   "MarketPrice": 14.25,
+   "Volume": "3,200"
+ },
+ {
+   "CompanyName": "Barrick Gold",
+   "CompanyCode": "ABX",
+   "MarketPrice": 16.08,
+   "Volume": "3,100"
+ },
+ {
+   "CompanyName": "Nokia",
+   "CompanyCode": "NOK",
+   "MarketPrice": 6.28,
+   "Volume": "3,060"
+ },
+ {
+   "CompanyName": "Anglogold Ashanti",
+   "CompanyCode": "AU",
+   "MarketPrice": 10.42,
+   "Volume": "3,000"
+ },
+ {
+   "CompanyName": "Sap Aktiengesell",
+   "CompanyCode": "SAP",
+   "MarketPrice": 106.18,
+   "Volume": "2,910"
+ },
+ {
+   "CompanyName": "Chicago Bridge & Iron",
+   "CompanyCode": "CBI",
+   "MarketPrice": 20.02,
+   "Volume": "2,811"
+ },
+ {
+   "CompanyName": "Au Optronics",
+   "CompanyCode": "AUO",
+   "MarketPrice": 4.81,
+   "Volume": "2,100"
+ },
+ {
+   "CompanyName": "Caterpillar",
+   "CompanyCode": "CAT",
+   "MarketPrice": 103.93,
+   "Volume": "1,731"
+ },
+ {
+   "CompanyName": "Smith & Nephew",
+   "CompanyCode": "SNN",
+   "MarketPrice": 34.75,
+   "Volume": "1,200"
+ },
+ {
+   "CompanyName": "Freeport Mcmoran",
+   "CompanyCode": "FCX",
+   "MarketPrice": 11.72,
+   "Volume": "1,140"
+ },
+ {
+   "CompanyName": "National Grid",
+   "CompanyCode": "NGG",
+   "MarketPrice": 63.81,
+   "Volume": "1,050"
+ },
+ {
+   "CompanyName": "Annaly Mortgage",
+   "CompanyCode": "NLY",
+   "MarketPrice": 12.37,
+   "Volume": "955"
+ },
+ {
+   "CompanyName": "Colfax Corp.",
+   "CompanyCode": "CFX",
+   "MarketPrice": 38.04,
+   "Volume": "952"
+ },
+ {
+   "CompanyName": "Mittal Steel",
+   "CompanyCode": "MT",
+   "MarketPrice": 21.87,
+   "Volume": "853"
+ },
+ {
+   "CompanyName": "Chimera Investment",
+   "CompanyCode": "CIM",
+   "MarketPrice": 19.4,
+   "Volume": "800"
+ },
+ {
+   "CompanyName": "Bt",
+   "CompanyCode": "BT",
+   "MarketPrice": 18.77,
+   "Volume": "800"
+ },
+ {
+   "CompanyName": "Coca Cola",
+   "CompanyCode": "KO",
+   "MarketPrice": 45.05,
+   "Volume": "785"
+ },
+ {
+   "CompanyName": "Diageo",
+   "CompanyCode": "DEO",
+   "MarketPrice": 120.42,
+   "Volume": "650"
+ },
+ {
+   "CompanyName": "Barclays",
+   "CompanyCode": "BCS",
+   "MarketPrice": 10.38,
+   "Volume": "600"
+ },
+ {
+   "CompanyName": "Novartis",
+   "CompanyCode": "NVS",
+   "MarketPrice": 85.31,
+   "Volume": "500"
+ },
+ {
+   "CompanyName": "Carnival",
+   "CompanyCode": "CUK",
+   "MarketPrice": 65.48,
+   "Volume": "500"
+ },
+ {
+   "CompanyName": "Unilever America",
+   "CompanyCode": "UL",
+   "MarketPrice": 54.76,
+   "Volume": "500"
+ },
+ {
+   "CompanyName": "Rite Aid",
+   "CompanyCode": "RAD",
+   "MarketPrice": 3.74,
+   "Volume": "480"
+ },
+ {
+   "CompanyName": "Citigroup",
+   "CompanyCode": "C",
+   "MarketPrice": 64.23,
+   "Volume": "454"
+ },
+ {
+   "CompanyName": "Jp Morgan Chase",
+   "CompanyCode": "JPM",
+   "MarketPrice": 88.05,
+   "Volume": "451"
+ },
+ {
+   "CompanyName": "Salesforce",
+   "CompanyCode": "CRM",
+   "MarketPrice": 87.68,
+   "Volume": "446"
+ },
+ {
+   "CompanyName": "Gen Electric",
+   "CompanyCode": "GE",
+   "MarketPrice": 27.21,
+   "Volume": "408"
+ },
+ {
+   "CompanyName": "Goldcorp",
+   "CompanyCode": "GG",
+   "MarketPrice": 13.37,
+   "Volume": "400"
+ },
+ {
+   "CompanyName": "Kb Home",
+   "CompanyCode": "KBH",
+   "MarketPrice": 22.82,
+   "Volume": "400"
+ },
+ {
+   "CompanyName": "Whiting Pete",
+   "CompanyCode": "WLL",
+   "MarketPrice": 5.48,
+   "Volume": "400"
+ },
+ {
+   "CompanyName": "Mastercard",
+   "CompanyCode": "MA",
+   "MarketPrice": 122.74,
+   "Volume": "378"
+ },
+ {
+   "CompanyName": "Schlumberger",
+   "CompanyCode": "SLB",
+   "MarketPrice": 65.36,
+   "Volume": "355"
+ },
+ {
+   "CompanyName": "Pier One",
+   "CompanyCode": "PIR",
+   "MarketPrice": 5.34,
+   "Volume": "350"
+ },
+ {
+   "CompanyName": "Anworth",
+   "CompanyCode": "ANH",
+   "MarketPrice": 6.21,
+   "Volume": "300"
+ },
+ {
+   "CompanyName": "Conocophillips",
+   "CompanyCode": "COP",
+   "MarketPrice": 43.97,
+   "Volume": "300"
+ },
+ {
+   "CompanyName": "Tenaris",
+   "CompanyCode": "TS",
+   "MarketPrice": 29.84,
+   "Volume": "300"
+ },
+ {
+   "CompanyName": "Berkshire Hath B",
+   "CompanyCode": "BRK.B",
+   "MarketPrice": 167.35,
+   "Volume": "240"
+ },
+ {
+   "CompanyName": "Mcdonalds",
+   "CompanyCode": "MCD",
+   "MarketPrice": 153.72,
+   "Volume": "236"
+ },
+ {
+   "CompanyName": "Autoliv",
+   "CompanyCode": "ALV",
+   "MarketPrice": 107.6,
+   "Volume": "208"
+ },
+ {
+   "CompanyName": "Textron",
+   "CompanyCode": "TXT",
+   "MarketPrice": 46.45,
+   "Volume": "201"
+ },
+ {
+   "CompanyName": "Wells Fargo",
+   "CompanyCode": "WFC",
+   "MarketPrice": 53.16,
+   "Volume": "180"
+ },
+ {
+   "CompanyName": "Noble",
+   "CompanyCode": "NE",
+   "MarketPrice": 3.72,
+   "Volume": "150"
+ },
+ {
+   "CompanyName": "Att",
+   "CompanyCode": "T",
+   "MarketPrice": 37.7,
+   "Volume": "149"
+ },
+ {
+   "CompanyName": "Amphenol",
+   "CompanyCode": "APH",
+   "MarketPrice": 74.23,
+   "Volume": "113"
+ },
+ {
+   "CompanyName": "Anadarko",
+   "CompanyCode": "APC",
+   "MarketPrice": 43.8,
+   "Volume": "100"
+ },
+ {
+   "CompanyName": "New Oriental Education Technology",
+   "CompanyCode": "EDU",
+   "MarketPrice": 71.6,
+   "Volume": "100"
+ },
+ {
+   "CompanyName": "Wal Mart Stores",
+   "CompanyCode": "WMT",
+   "MarketPrice": 76.01,
+   "Volume": "100"
+ },
+ {
+   "CompanyName": "Cabot Oil Gas",
+   "CompanyCode": "COG",
+   "MarketPrice": 24.5,
+   "Volume": "100"
+ },
+ {
+   "CompanyName": "A K Steel",
+   "CompanyCode": "AKS",
+   "MarketPrice": 6.5,
+   "Volume": "100"
+ },
+ {
+   "CompanyName": "Posco",
+   "CompanyCode": "PKX",
+   "MarketPrice": 60.29,
+   "Volume": "90"
+ },
+ {
+   "CompanyName": "Hecla Mining",
+   "CompanyCode": "HL",
+   "MarketPrice": 5.17,
+   "Volume": "75"
+ },
+ {
+   "CompanyName": "Southwest Airlines",
+   "CompanyCode": "LUV",
+   "MarketPrice": 61.51,
+   "Volume": "58"
+ },
+ {
+   "CompanyName": "Royal Caribbean Cr",
+   "CompanyCode": "RCL",
+   "MarketPrice": 108.89,
+   "Volume": "55"
+ }
+]

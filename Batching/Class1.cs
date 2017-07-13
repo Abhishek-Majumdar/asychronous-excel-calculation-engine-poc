@@ -21,9 +21,11 @@ namespace AsyncBatching
 
     public static class JsonFunctions
     {
+        static string address = "C:/Users/AM57337/Documents/Stocks.json";
+
         public static object CompanyNameSync(string code)
         {
-            var list = JsonConvert.DeserializeObject<List<Stock>>(File.ReadAllText(@"C:\Stocks.json"));
+            var list = JsonConvert.DeserializeObject<List<Stock>>(File.ReadAllText(@address));
             List<string> CompanyList = new List<string>();
 
             foreach (var item in list)
@@ -45,7 +47,7 @@ namespace AsyncBatching
                 for (int j = 0; j != 1000; j++) ;
             };
 
-            var list = JsonConvert.DeserializeObject<List<Stock>>(File.ReadAllText(@"C:\Stocks.json"));
+            var list = JsonConvert.DeserializeObject<List<Stock>>(File.ReadAllText(@address));
             List<string> CompanyList = new List<string>();
 
             foreach (var item in list)
@@ -62,7 +64,7 @@ namespace AsyncBatching
 
         public static object StockPrice(string name)
         {
-            var list = JsonConvert.DeserializeObject<List<Stock>>(File.ReadAllText(@"C:\Stocks.json"));
+            var list = JsonConvert.DeserializeObject<List<Stock>>(File.ReadAllText(@address));
 
             foreach (var item in list)
             {
@@ -74,7 +76,7 @@ namespace AsyncBatching
 
         public static object Volume(string name)
         {
-            var list = JsonConvert.DeserializeObject<List<Stock>>(File.ReadAllText(@"C:\Stocks.json"));
+            var list = JsonConvert.DeserializeObject<List<Stock>>(File.ReadAllText(@address));
 
             foreach (var item in list)
             {
@@ -86,7 +88,7 @@ namespace AsyncBatching
 
          public static string dataPuller()
         {
-            var list = JsonConvert.DeserializeObject<List<Stock>>(File.ReadAllText(@"C:\Stocks.json"));
+            var list = JsonConvert.DeserializeObject<List<Stock>>(File.ReadAllText(@address));
             List<string> CompanyList = new List<string>();
 
             foreach (var item in list)
