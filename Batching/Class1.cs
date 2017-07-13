@@ -21,7 +21,7 @@ namespace AsyncBatching
 
     public static class JsonFunctions
     {
-        static string address = "C:/Users/AM57337/Documents/Stocks.json";
+        static string address = AppDomain.CurrentDomain.BaseDirectory+ @"\Stocks.json";
 
         public static object CompanyNameSync(string code)
         {
@@ -186,7 +186,7 @@ namespace AsyncBatching
         {
             if (maxBatchSize < 1)
             {
-                throw new ArgumentOutOfRangeException("maxBatchSize", "Max batch size must be positive");
+                throw new ArgumentOutOfRangeException("maxBatchSize", "Max batch size must be non zero and positive");
             }
             if (batchRunner == null)
             {
