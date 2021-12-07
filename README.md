@@ -1,5 +1,5 @@
-# Asyncronous-batch-calling-in-Excel
-The repository contains a formulation using Excel-DNA which asynchronously calculates Excel formulas in the background 
-while allowing the user to interact with the Excel UI.
+## Asynchronous Excel batch calculation engine
 
-The code is well commented and easy to understand. 
+Asynchronous calculation model for Excel developed using Excel-DNA project which can batch process formulas in a non blocking thread which prevents Excel from freezing and retains the main interface thread. 
+
+**This is written in C#.**
